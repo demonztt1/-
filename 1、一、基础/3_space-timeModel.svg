@@ -21,7 +21,7 @@
   <line fill="none" stroke="#191919" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="152.5" y1="107.9" x2="183.5" y2="153.9" id="svg_18" stroke-linejoin="null" stroke-linecap="null"/>
   <line fill="none" stroke="#191919" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="120.5" y1="155.9" x2="153.5" y2="105.9" id="svg_19" stroke-linejoin="null" stroke-linecap="null"/>
   <ellipse fill="#ff0000" stroke="#fff" stroke-width="1.5" cx="265" cy="71.4" id="svg_20" rx="8.5" ry="9.5"/>
-  <text fill="#000000" stroke="#fff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="234.5" y="107.9" id="svg_21" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">编码</text>
+  <text fill="#000000" stroke="#fff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="234.5" y="107.9" id="svg_21" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">时空</text>
   <text style="cursor: move;" fill="#000000" stroke="#fff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="97.5" y="29.9" id="svg_22" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">规则</text>
   <rect stroke="#fff" id="svg_12" height="35" width="46.000001" y="137.4" x="22.5" stroke-width="1.5" fill="#0000bf"/>
   <rect id="svg_23" height="35" width="63" y="79.4" x="52.5" stroke-width="1.5" stroke="#fff" fill="#0000bf"/>
